@@ -1,108 +1,63 @@
-# Agent Skills
+# Agent Skills Library
 
-Production-ready skills library for AI agents working on web development and portfolio management.
+Complete collection of skills for AI agents — including custom portfolio skills and built-in tools.
 
-## Available Skills
+## Your Custom Skills
 
-### 1. Portfolio Management (`portfolio-management/`)
+| Skill | Description |
+|-------|-------------|
+| **portfolio-management** | Managing, updating, deploying portfolio websites |
+| **content-generator** | Writing case studies, professional bios, LinkedIn copy |
+| **web-components** | HTML/CSS components for portfolio sites |
 
-Comprehensive skill for managing, updating, and optimizing personal portfolio websites.
+## Built-in Skills
 
-**Capabilities:**
-- Add/update/remove portfolio projects
-- Maintain navigation consistency across pages
-- Manage design system tokens
-- Deployment workflows and checklists
-- GitHub Pages configuration
+| Skill | Description |
+|-------|-------------|
+| **algorithmic-art** | Creating generative art with p5.js |
+| **brand-guidelines** | Anthropic brand colors and typography |
+| **canvas-design** | Creating art in PNG/PDF documents |
+| **claude-api** | Building apps with Claude API |
+| **doc-coauthoring** | Writing documentation and proposals |
+| **docx** | Creating Word documents |
+| **frontend-design** | Building production-grade web interfaces |
+| **internal-comms** | Writing internal communications |
+| **mcp-builder** | Creating MCP servers |
+| **pdf** | Working with PDF files |
+| **pptx** | Creating PowerPoint presentations |
+| **quick-wireframe** | Creating wireframes and mockups |
+| **skill-creator** | Creating and optimizing skills |
+| **slack-gif-creator** | Creating animated GIFs for Slack |
+| **theme-factory** | Applying themes to artifacts |
+| **web-artifacts-builder** | Complex React artifacts |
+| **webapp-testing** | Testing web apps with Playwright |
+| **xlsx** | Creating and editing spreadsheets |
 
-**Key Features:**
-- Design token reference
-- Navigation templates
-- File structure documentation
-- Deployment checklist
+## Quick Reference
 
-### 2. Content Generator (`content-generator/`)
+**Portfolio tasks** → `portfolio-management`
+- Add/update projects
+- Fix navigation
+- Deploy to GitHub Pages
 
-Generate professional, compelling copy for portfolio websites and professional profiles.
+**Content writing** → `content-generator`
+- Case studies
+- Professional bios
+- Impact bullet points
 
-**Capabilities:**
-- Write project case studies
-- Create impact-driven bullet points
-- Generate About sections
-- Draft LinkedIn-ready content
-- Professional bio templates
+**UI components** → `web-components`
+- Navigation bars
+- Project cards
+- Timeline layouts
+- Animations
 
-**Key Features:**
-- Case study structure templates
-- Bullet point formula (Action + Task + Result)
-- LinkedIn bio template
-- Writing tips and common mistakes
+**Documents** → `docx`, `pptx`, `pdf`, `xlsx`
+- Word reports
+- PowerPoint decks
+- PDF forms
+- Excel spreadsheets
 
-### 3. Web Components (`web-components/`)
-
-Reusable HTML/CSS components for building professional portfolio websites.
-
-**Capabilities:**
-- Copy-paste ready component code
-- Design system reference
-- Animation patterns
-- Responsive breakpoints
-
-**Key Features:**
-- Complete design token palette
-- Navigation, cards, timeline components
-- Contact links, education cards, accordions
-- Fade-in scroll animations
-- Hover effects
-
-## Quick Start
-
-1. Clone this repository
-2. Reference skills as needed for tasks
-3. Copy component code directly into projects
-4. Follow workflow templates for consistency
-
-## Skill Format
-
-Each skill contains:
-- `SKILL.md` - Main documentation and templates
-- Examples and code snippets ready to use
-- Best practices and tips
-
-## Design System
-
-All components follow this design system:
-
-| Token | Value | Usage |
-|-------|-------|-------|
-| `--bg` | `#F7F4EF` | Warm off-white background |
-| `--accent` | `#1D4ED8` | Primary blue |
-| `--text` | `#1C1917` | Near-black text |
-| `--muted` | `#78716C` | Secondary text |
-
-## Usage
-
-```
-# Portfolio updates
-Use: portfolio-management skill
-Tasks: Add project, update navigation, fix design consistency
-
-# Content writing
-Use: content-generator skill
-Tasks: Write case study, create bio, bullet points
-
-# Component building
-Use: web-components skill
-Tasks: Copy navigation, create cards, add animations
-```
-
-## Contributing
-
-Add new skills by:
-1. Creating a new directory
-2. Adding SKILL.md with documentation
-3. Including code examples
-4. Updating this README
+## Total: 21 Skills
 
 ---
 
