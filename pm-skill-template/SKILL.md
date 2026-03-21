@@ -1,4 +1,9 @@
-# TIER 1: Unified Skill Template
+---
+name: pm-skill-template
+description: Reference template that defines the standard structure for all PM skills in the library. Use this to understand the format and consistency expected across all PM skills.
+---
+
+# Unified PM Skill Template
 
 This template defines the standard structure for all PM Skills in the library. Every skill MUST follow this format to ensure consistency and enable reliable agent parsing.
 

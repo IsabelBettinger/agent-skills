@@ -1,9 +1,9 @@
-# SKILL NAME: PM Strategy
-
-### Description
-PM Strategy is the foundational skill for defining the "why" behind product work. It establishes the strategic context, validates problem/opportunity fit, and ensures all downstream decisions (prioritization, requirements, launch) align with business objectives and market realities. A PM exercises this skill when building business cases, conducting strategic discovery, validating market hypotheses, and ensuring work serves clear OKRs.
-
 ---
+name: pm-strategy
+description: Define the "why" behind product work. Establishes strategic context, validates problem/opportunity fit, and ensures all downstream decisions align with business objectives and market realities. Use this skill when building business cases, conducting strategic discovery, validating market hypotheses, and ensuring work serves clear OKRs.
+---
+
+# PM Strategy Skill
 
 ### Top Tasks
 

@@ -1,3 +1,8 @@
+---
+name: pm-product-circle
+description: 8-phase product development lifecycle that coordinates all PM skills from strategic conception through post-launch optimization. Maps phases, skill ownership, handoffs, parallel workstreams, and validation gates to prevent rework and launch delays.
+---
+
 # Product Circle Workflow: 8-Phase Development Lifecycle
 
 A comprehensive mapping of how PM skills orchestrate through a complete product development cycle. This document defines the work phases, skill ownership, handoffs, and feedback loops.
