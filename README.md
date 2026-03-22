@@ -1,8 +1,8 @@
 # Agent Skills Library
 
-A comprehensive collection of **29 AI agent skills** organized into categories for easy discovery and use. Includes product management, design, documents, presentations, frontend development, and developer tools.
+A comprehensive collection of **30 AI agent skills** organized into categories for easy discovery and use. Includes product management, design, documents, presentations, frontend development, and developer tools.
 
-**Total Skills:** 29  
+**Total Skills:** 30  
 **Status:** Production Ready  
 **Last Updated:** March 21, 2026
 
@@ -105,9 +105,9 @@ Create visual designs, illustrations, and UI components.
 
 ---
 
-### 💻 Frontend Development (4 Skills)
+### 💻 Frontend Development (5 Skills)
 
-Build web interfaces, components, and test web applications.
+Build web interfaces, components, and test web applications with real-time browser visibility.
 
 | Skill | Lines | Purpose |
 |-------|-------|---------|
@@ -115,12 +115,14 @@ Build web interfaces, components, and test web applications.
 | **web-artifacts-builder** | 73 | Complex React artifacts with shadcn/ui |
 | **web-components** | 231 | HTML/CSS components for portfolio sites |
 | **webapp-testing** | 95 | Testing web apps with Playwright |
+| **browser-live-view** | 550 | Real-time browser automation with live visibility |
 
 **Use Cases:**
 - Landing pages, dashboards, React components
 - HTML/CSS layouts and styling
 - Browser testing and debugging
 - UI verification and screenshots
+- **NEW:** See your browser in real-time without manual screenshots
 
 ---
 
@@ -207,12 +209,13 @@ Manage portfolio websites and create professional content.
 ✅ brand-guidelines         - Anthropic brand style
 ```
 
-### Frontend Development (4)
+### Frontend Development (5)
 ```
 ✅ frontend-design          - Production-grade web interfaces
 ✅ web-artifacts-builder    - Complex React artifacts
 ✅ web-components           - HTML/CSS components
 ✅ webapp-testing          - Playwright testing
+✅ browser-live-view        - Real-time browser visibility
 ```
 
 ### Presentations (1)
@@ -258,6 +261,7 @@ Manage portfolio websites and create professional content.
 - React components: `web-artifacts-builder`
 - Simple components: `web-components`
 - Testing: `webapp-testing`
+- **Real-time browser view:** `browser-live-view` ✨ NEW!
 
 **Creating Visual Content:**
 - Art & design: `canvas-design`
@@ -411,6 +415,9 @@ HTML/CSS components for portfolio sites: navigation bars, project cards, timelin
 **webapp-testing**
 Interact with and test local web applications using Playwright. Supports verification, debugging, screenshots, and browser logs.
 
+**browser-live-view** ✨ NEW!
+Real-time browser automation with live visibility into browser state, DOM inspection, console logs, network activity, and screenshot capture. Enables AI agents to see and interact with web browsers without manual screenshots.
+
 ### Presentation Skills
 
 **pptx**
@@ -444,11 +451,11 @@ Write case studies, professional bios, LinkedIn copy, and impact bullet points f
 | Product Management | 8 | 2,466 |
 | Documents | 5 | 1,602 |
 | Design & Art | 6 | 1,196 |
-| Frontend Development | 4 | 441 |
+| Frontend Development | 5 | 991 |
 | Presentations | 1 | 232 |
 | Developer Tools | 4 | 1,255 |
 | Portfolio & Content | 2 | 204 |
-| **TOTAL** | **29** | **7,396** |
+| **TOTAL** | **30** | **7,946** |
 
 ---
 
